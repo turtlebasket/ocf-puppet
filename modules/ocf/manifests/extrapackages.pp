@@ -107,7 +107,6 @@ class ocf::extrapackages {
     'mutt',
     'nasm',
     'neofetch',
-    'neovim',
     'nodeenv',
     'nodejs',
     'octave',
